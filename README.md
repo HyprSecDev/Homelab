@@ -17,9 +17,9 @@ To create a secure, hands-on cloud homelab that demonstrates:
 ---
 
 ## 📁 Repository Structure
-/docs → Diagrams, documentation, and notes
-/configs → Configuration files for VMs, firewalls, Terraform, etc.
-/images → Network topology maps, screenshots, visual content
+- /docs → Diagrams, documentation, and notes
+- /configs → Configuration files for VMs, firewalls, Terraform, etc.
+- /images → Network topology maps, screenshots, visual content
 
 ---
 
