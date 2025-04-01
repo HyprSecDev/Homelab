@@ -17,6 +17,7 @@ To create a secure, hands-on cloud homelab that demonstrates:
 ---
 
 ## 📁 Repository Structure
+
 - /docs → Diagrams, documentation, and notes
 - /configs → Configuration files for VMs, firewalls, Terraform, etc.
 - /images → Network topology maps, screenshots, visual content
@@ -26,31 +27,37 @@ To create a secure, hands-on cloud homelab that demonstrates:
 ## 🗓️ 6-Week Breakdown
 
 ### 📌 Week 1: Homelab Foundations
+
 - Built virtual network using VirtualBox, pfSense, and Ubuntu Server
 - Created and documented a network topology
 - Set up GitHub project structure
 
 ### 📌 Week 2: AWS Core & Hybrid Connectivity
+
 - Deployed AWS VPC, subnets, and EC2 instances
 - Configured IAM roles, MFA, and secure remote access
 - Enabled CloudTrail and AWS Config
 
 ### 📌 Week 3: Containers & Automation
+
 - Deployed containerized services using Docker & Docker Compose
 - Wrote Terraform scripts and Ansible playbooks
 - (Optional) Created ECS or EKS clusters for cloud-native deployment
 
 ### 📌 Week 4: Logging & Monitoring
+
 - Deployed Graylog or ELK Stack for centralized logging
 - Integrated AWS CloudWatch, CloudTrail, and SNS alerts
 - Documented log flows and alert logic
 
 ### 📌 Week 5: Vulnerability Assessment & Hardening
+
 - Performed vulnerability scans with OpenVAS or Nessus
 - Applied CIS Benchmarks and system hardening techniques
 - Audited and documented AWS Security Hub findings
 
 ### 📌 Week 6: Capstone Build & Showcase
+
 - Unified AWS and homelab into a single architecture
 - Simulated security events and validated monitoring setup
 - Finalized documentation, visuals, and GitHub presentation
