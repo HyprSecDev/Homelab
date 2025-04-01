@@ -77,8 +77,6 @@ You’ll find detailed network diagrams, architecture layouts, and screenshots i
 - `/images` — visual assets
 - `/docs` — walkthroughs and documentation
 
-Optional video walkthroughs can be added here (YouTube/OBS links).
-
 ---
 
 ## 🧠 Key Takeaways
